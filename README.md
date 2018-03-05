@@ -1,0 +1,1 @@
+This weather app will help you look up the current temperature for any city!
